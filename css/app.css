@@ -1,0 +1,14 @@
+body {
+  padding-top: 25px;
+  background-color: #eee;
+}
+
+.wistia-progress {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.upload-another-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
